@@ -1,4 +1,4 @@
-# EvilSelenium
+EvilSelenium
 
 EvilSelenium 是一种将 Selenium 武器化以攻击 Chrome 的工具。
 
@@ -6,7 +6,7 @@ EvilSelenium 是一种将 Selenium 武器化以攻击 Chrome 的工具。
 地址：https://github.com/mrd0x/EvilSelenium
 
 
-# Trivy
+Trivy
 
 容器映像、文件系统和 Git 存储库中的漏洞以及配置问题的扫描程序
 
@@ -72,3 +72,298 @@ Redteamwiki
 
 地址：https://redteam.wiki/
 
+Sylas
+
+数据库综合利用工具
+
+地址：https://github.com/Ryze-T/Sylas/releases/tag/beta
+
+Active-Directory-Exploitation-Cheat-Sheet
+
+包含 Windows Active Directory 的常见枚举和攻击方法的备忘单。
+
+地址：https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
+
+ldapsearch-ad
+
+Python3 脚本通过他的 LDAP 服务快速从域控制器获取各种信息。
+
+地址：https://github.com/yaap7/ldapsearch-ad
+
+reverse_engineering_tools
+
+来自逆向工程和恶意软件分析领域的各种代码示例和有用的提示和技巧。
+
+地址：https://github.com/alexey-kleymenov/reverse_engineering_tools
+
+SSH-PuTTY-login-bruteforcer
+
+将 PuTTY 变成 SSH 登录暴力破解工具。
+
+地址：https://github.com/InfosecMatter/SSH-PuTTY-login-bruteforcer
+
+UACME
+
+通过滥用内置的 Windows AutoElevate 后门来击败 Windows 用户帐户控制。
+
+地址：https://github.com/hfiref0x/UACME
+
+scilla
+
+信息收集工具 - DNS / 子域 / 端口 / 目录枚举
+
+地址：https://github.com/edoardottt/scilla
+
+ihoneyBakFileScan_Modify
+
+批量网站备份文件扫描器，增加文件规则，优化内存占用
+
+地址：https://github.com/VMsec/ihoneyBakFileScan_Modify
+
+The-Hitchhiker-s-Guide-to-the-Blockchain-Sec
+
+《区块链安全入门与实战》
+
+
+地址：https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec
+
+0day
+
+各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新
+
+
+地址：https://github.com/helloexp/0day
+
+ReverseTool
+
+逆向工具集合
+
+地址：https://github.com/weixinbao/ReverseTool
+
+awesome-risk-control
+
+风控知识总结
+
+地址：https://github.com/yangliang1415/awesome-risk-control
+
+DumpSMBShare
+
+从 Windows SMB 共享远程转储文件和文件夹的脚本。
+
+地址：https://github.com/p0dalirius/DumpSMBShare
+
+github-cve-monitor
+
+实时监控github上新增的cve和安全工具更新，多渠道推送通知
+
+地址：https://github.com/yhy0/github-cve-monitor
+
+PlayWithDefender
+
+禁用和启用 Windows Defender 保护的简单工具
+
+地址：https://github.com/whydee86/PlayWithDefender
+
+Sec-Interview-4-2023
+
+一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~
+
+地址：https://github.com/vvmdx/Sec-Interview-4-2023
+
+golang-security
+
+Golang 安全
+
+地址：https://github.com/pen4uin/golang-security
+
+HackReport
+
+渗透测试报告/资料文档/渗透经验文档/安全书籍
+
+地址：https://github.com/awake1t/HackReport
+
+BypassAnti-Virus
+
+免杀姿势学习、记录、复现。
+
+地址：https://github.com/midisec/BypassAnti-Virus
+
+secbook
+
+信息安全从业者书单推荐
+
+书单均是个人看过或者业界认可的经典书籍，跟网上罗列的安全书单不同，并非把网店上的各安全书籍都罗列上的。
+
+地址：https://github.com/riusksk/secbook
+
+CVE
+
+使用 PoC 收集和更新所有可用和最新的 CVE
+
+地址：https://github.com/trickest/cve
+
+SSRFire
+
+一个自动化的 SSRF 查找器。只需提供域名和您的服务器即可！;) 还具有查找 XSS 和打开重定向的选项
+
+地址：https://github.com/ksharinarayanan/SSRFire
+
+TPLogScan
+
+ThinkPHP全日志扫描工具，命令行版和BurpSuite插件版
+
+地址：https://github.com/r3change/TPLogScan
+
+nuclei-burp-plugin
+
+BurpSuite 的 Nuclei 插件
+
+地址：https://github.com/projectdiscovery/nuclei-burp-plugin
+
+Nimcrypt2
+
+用 Nim 编写的 .NET、PE 和原始 Shellcode 打包程序/加载程序
+
+地址：https://github.com/icyguider/Nimcrypt2
+
+MemoryShellLearn
+
+分享几个直接可用的内存马，记录一下学习过程中看过的文章
+
+地址：https://github.com/bitterzzZZ/MemoryShellLearn
+
+pystinger
+
+Bypass firewall for traffic forwarding using webshell 一款使用webshell进行流量转发的出网工具
+
+地址：https://github.com/FunnyWolf/pystinger
+
+The-Art-Of-Mac-Malware-CN
+
+恶意软件的艺术
+
+地址：https://github.com/Buzz2d0/bxl
+
+SharpXDecrypt
+
+Xshell全版本密码解密工具
+
+地址：https://github.com/JDArmy/SharpXDecrypt
+
+Sec-Box
+
+信息安全工具以及资源集合
+
+地址：https://github.com/heiye007/Sec-Box
+
+ShellcodeTemplate
+
+适用于 Windows x64/x86 的易于修改的 shellcode 模板
+
+地址：https://github.com/Cracked5pider/ShellcodeTemplate
+
+cloud-native-security
+
+云原生安全
+
+地址：https://github.com/pen4uin/cloud-native-security
+
+BurpSuite_403Bypasser
+
+Burpsuite 扩展绕过 403 受限目录
+
+地址：https://github.com/sting8k/BurpSuite_403Bypasser
+
+xiangrikui-exp
+
+向日葵RCE漏洞一键批量检测
+
+地址：https://github.com/Skymine/xiangrikui-exp
+
+LeakedHandlesFinder
+
+泄露的 Windows 进程句柄识别工具
+
+地址：https://github.com/lab52io/LeakedHandlesFinder
+
+Ghost-Attack-Suite
+
+GAS 漏洞利用框架
+
+地址：https://github.com/cheetah-lab/Ghost-Attack-Suite
+
+一些在线的网络安全相关工具
+
+地址：https://github.com/z1un/tools.zjun.info
+
+redteam-tools
+
+红队作战中的一些工具分享。
+
+地址：https://github.com/r0eXpeR/redteam-tools
+
+TotalPass
+
+Default password scanner. 默认密码扫描器
+
+地址：https://github.com/0xHJK/TotalPass
+
+Hyuga
+
+Hyuga 是一个用来检测带外(Out-of-Band)流量的监控工具。
+
+地址：https://github.com/Buzz2d0/Hyuga
+
+java-security
+
+Java安全☞代码审计/漏洞研究/武器化
+
+地址：https://github.com/pen4uin/java-security
+
+BugBounty
+
+web fuzzing && bug hunter
+
+地址：https://github.com/zer0yu/BugBounty
+
+veinmind-tools
+
+veinmind-tools 是由长亭科技自研，基于veinmind-sdk打造的容器安全工具集
+
+地址：https://github.com/chaitin/veinmind-tools
+
+uncover
+
+使用多个搜索引擎快速发现互联网上暴露的主机。
+
+地址：https://github.com/projectdiscovery/uncover
+
+arno
+
+漏洞赏金和渗透测试的完整工具！
+
+地址：https://github.com/DonatoReis/arno
+
+BountyHunterInChina
+
+重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例
+
+地址：https://github.com/J0o1ey/BountyHunterInChina
+
+Stowaway
+
+Stowaway——用于渗透测试者的多跳代理工具
+
+地址：https://github.com/lz520520/Stowaway
+
+pocassistdb
+
+pocassist数据库（漏洞库）
+
+地址：https://github.com/jweny/pocassistdb
+
+WindowsCamp
+
+Windows 内核知识 && 在线收集资源
+
+地址：https://github.com/bopin2020/WindowsCamp

@@ -367,3 +367,279 @@ WindowsCamp
 Windows 内核知识 && 在线收集资源
 
 地址：https://github.com/bopin2020/WindowsCamp
+
+PSSW100AVB
+
+这是具有 100% AV 绕过存储库 (PSSW100AVB) 的 Powershell 脚本。具有 100% AV 绕过功能的有用 Powershell 脚本列表
+
+地址：https://github.com/tihanyin/PSSW100AVB
+
+uro
+
+整理用于爬行/渗透测试的 url 列表
+
+地址：https://github.com/s0md3v/uro
+
+micro_service_seclab
+
+Java漏洞靶场
+
+地址：https://github.com/l4yn3/micro_service_seclab
+
+shellcode-factory
+
+一个简单的shellcode生成框架
+
+地址：https://github.com/lainswork/shellcode-factory
+
+IDAPluginList
+
+IDA插件集合，含项目名称及地址，每日定时克隆项目。
+
+地址：https://github.com/HACK-THE-WORLD/IDAPluginList
+
+scancss
+
+Fastest tool to find XSS
+
+scancss 是自动检测跨站点脚本 (XSS) 的最快工具，它也是一个智能负载生成器。
+
+地址：https://github.com/thenurhabib/scancss
+
+cdb-wds
+
+利用白名单文件 cdb.exe 执行 shellcode
+
+地址：https://github.com/Ryze-T/cdb-wds
+
+owa_info
+
+获取Exchange信息的小工具
+
+地址：https://github.com/Ridter/owa_info
+
+passToJs
+
+爆破js加密的后台登陆；JS加密；爆破密码；PyExecJS
+
+地址：https://github.com/yaunsky/passToJs
+
+gitdorks_go
+
+一款在github上发现敏感信息的自动化收集工具
+
+地址：https://github.com/damit5/gitdorks_go
+
+360SafeBrowsergetpass
+
+这是一个一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具，用于节省红队工作量，通过下载浏览器数据库、记录密钥来离线解密浏览器密码。
+
+地址：https://github.com/hayasec/360SafeBrowsergetpass
+
+ThunderSearch
+
+【信息搜集】闪电搜索器；GUI图形化渗透测试信息搜集工具
+
+地址：https://github.com/xzajyjs/ThunderSearch
+
+Atlas
+
+快速 SQLMap 绕过waf建议器
+
+地址：https://github.com/m4ll0k/Atlas
+
+ObserverWard_0x727
+
+跨平台社区网页指纹识别工具
+
+地址：https://github.com/0x727/ObserverWard_0x727
+
+CcRemote
+
+这是一个基于gh0styuanchen控制的项目，使自己更深入了解yuan控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码
+
+地址：https://github.com/Cc28256/CcRemote
+
+WebLogic_Basic_Poc
+
+用于WebLogic poc及exp测试的基础脚本，后续将集成各版本poc库
+
+地址：https://github.com/rufherg/WebLogic_Basic_Poc
+
+Ridgway
+
+隐藏运行 shellcode 的新进程的快速工具。
+
+地址：https://github.com/m0rv4i/Ridgway
+
+钉钉RCE
+
+钉钉的RCE
+
+地址：https://github.com/crazy0x70/dingtalk-RCE
+
+weakpass
+
+Weakpass 基于规则的在线生成器，用于根据用户输入的一组单词创建一个单词列表和字典集，在渗透中很有帮助。
+
+地址：https://github.com/zzhsec/weakpass
+
+HunterApi
+
+奇安信的网络空间测绘引擎 hunter 的 api 查询导出工具
+
+地址：https://github.com/akkuman/HunterApi
+
+Coldfire
+
+Golang 恶意软件开发库
+
+地址：https://github.com/redcode-labs/Coldfire
+
+pickl3
+
+Windows 活动用户凭据网络钓鱼工具
+
+地址：https://github.com/hlldz/pickl3
+
+CVE-2021-4034
+
+PwnKit 的 PoC：polkit 的 pkexec 中的本地权限提升漏洞 (CVE-2021-4034)
+
+地址：https://github.com/arthepsy/CVE-2021-4034
+
+SpringInspector
+
+针对于Spring框架的自动Java代码审计工具
+
+地址:https://github.com/EmYiQing/SpringInspector
+
+monitor
+
+漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。
+
+地址：https://github.com/lxflxfcl/monitor
+
+DefenderSwitch
+
+使用 Win32 API 停止 Windows Defender
+
+地址：https://github.com/last-byte/DefenderSwitch
+
+
+FunctionStomping
+
+一种新的 shellcode 注入技术。作为 C++ 头文件或独立的 Rust 程序给出。
+
+地址：https://github.com/Idov31/FunctionStomping
+
+SecCrawler
+
+一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、棱角社区，持续更新中。
+
+地址：https://github.com/Le0nsec/SecCrawler
+
+blackJack-Dicts
+
+参考十余个项目整理的目录和文件字典
+
+地址：https://github.com/t43Wiu6/blackJack-Dicts
+
+Pentesting-Active-Directory-CN
+
+域渗透脑图中文翻译版
+
+地址：https://github.com/NyDubh3/Pentesting-Active-Directory-CN
+
+Vulns-2022
+
+本项目并不刻意搜集 POC 或 EXP，主要以 CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用
+
+地址：https://github.com/binganao/vulns-2022
+
+NGLite
+
+基于区块链网络的匿名跨平台远控程序
+
+地址：https://github.com/Maka8ka/NGLite
+
+Httpscan
+
+httpscan 用于C段http资产快速扫描，目前只支持80端口
+
+地址：https://github.com/AlphabugX/httpscan
+
+
+VunHunterTips
+
+漏洞挖掘技巧及其一些工具集成
+
+地址：https://github.com/mstxq17/VunHunterTips
+
+PassivesScan
+
+《被动扫描资源汇总》
+
+地址：https://github.com/0e0w/PassivesScan
+
+Pwcrack-framework
+
+pwcrack-framework 是一个用Ruby编写的密码自动破解框架，目前提供了 21 个在线破解和 28 个离线破解接口，支持 51 种算法破解
+
+地址：https://github.com/L-codes/pwcrack-framework
+
+Bankai
+
+与Cobalt Strike原始二进制有效载荷一起工作。这个项目主要是为了教育自己学习Go，并使用各种技术直接执行shellcode到目标Windows系统。
+
+我实现了一个简单的有效载荷加密过程（IV --> AES --> XOR --> Base64），这是我在学习SLAE32时学到的。这主要是为了保护Cobalt Strike的有效载荷，当它被转移到目标主机时。最终编译后的有效载荷将包括一个解密函数。
+
+地址：https://github.com/bigb0sss/Bankai
+
+Cryptocurrency-security
+
+加密资产安全解决方案 Cryptocurrency Security Solution
+
+地址：https://github.com/slowmist/cryptocurrency-security
+
+Go_Bypass
+
+一个免杀生成器模板，目前可以过国内主流杀毒。
+
+地址：https://github.com/Arks7/Go_Bypass
+
+Secguide
+
+面向开发人员梳理的代码安全指南
+
+地址：https://github.com/Tencent/secguide
+
+JDumpSpider
+
+HeapDump敏感信息提取工具
+
+地址：https://github.com/whwlsfb/JDumpSpider
+
+Rengine
+
+reNgine 是一个用于 Web 应用程序的自动化侦察框架，专注于通过引擎进行高度可配置的简化侦察过程、侦察数据关联和组织、持续监控、由数据库支持，以及简单而直观的用户界面。reNgine 使渗透测试人员可以轻松地收集资产信息等
+
+地址：https://github.com/yogeshojha/rengine
+
+Yasso
+
+强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用至此socks5代理执行）
+
+地址：https://github.com/sairson/Yasso
+
+JustC2file
+
+Burp插件，可以通过Burp代理选中请求，生成Cobalt Strike的profile文件
+
+地址：https://github.com/Peithon/JustC2file
+
+VulScanner
+
+一款适合在渗透测试中随时记录和保存的漏洞检测工具
+
+地址：https://github.com/passer-W/VulScanner

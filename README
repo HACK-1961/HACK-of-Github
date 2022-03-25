@@ -1,0 +1,74 @@
+EvilSelenium
+
+EvilSelenium 是一种将 Selenium 武器化以攻击 Chrome 的工具。
+
+
+地址：https://github.com/mrd0x/EvilSelenium
+
+
+Trivy
+
+容器映像、文件系统和 Git 存储库中的漏洞以及配置问题的扫描程序
+
+
+地址：https://github.com/aquasecurity/trivy
+
+CloudFlair
+
+
+使用来自 Censys 的全网扫描数据查找 CloudFlare 背后网站的源服务器。
+
+地址：https://github.com/christophetd/CloudFlair
+
+
+
+CredMaster
+
+重构和改进的 CredKing 密码喷射工具，使用 FireProx API 来轮换 IP 地址、保持匿名和节流
+
+地址：https://github.com/knavesec/CredMaster
+
+
+
+Pentest-note
+
+渗透测试☞经验/思路/想法/总结/笔记/. . .
+
+
+地址：https://github.com/pen4uin/pentest-note
+
+
+Secqa
+
+
+地址：https://github.com/bit4woo/secqa
+
+
+NimPackt
+
+基于 Nim 的汇编打包程序和 shellcode 加载程序，用于操作和利润
+
+地址：https://github.com/chvancooten/NimPackt-v1
+
+
+NessusToReport
+
+nessus扫描报告自动化生成工具
+
+地址：https://github.com/Hypdncy/NessusToReport
+
+
+Name-fuzz
+
+针对目标已知信息的字典生成工具
+
+地址：https://github.com/ffffffff0x/name-fuzz
+
+
+
+Redteamwiki
+
+该 wiki 的目的是成为另一个关于红队战术和程序的集中信息的公共资源。我们还希望关注本文讨论的每个 TTP 的报告和防御方面。
+
+地址：https://redteam.wiki/
+
